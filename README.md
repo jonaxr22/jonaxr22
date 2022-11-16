@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manojkumar Kalivarathan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **IBM**
+- 🔭 I’m currently working on **IBM  newspaper tracker**
 
 - 🌱 I’m currently learning **java,python,c++,c,perl,MYSQL**
 
