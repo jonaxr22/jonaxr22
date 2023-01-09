@@ -1,16 +1,16 @@
 # README
 <h1 align="center">Hi 👋, I'm Manojkumar Kalivarathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student developer who love learn new things</h3>
 
 - 🔭 I’m currently working on **IBM  newspaper tracker**
 
-- 🌱 I’m currently learning **java,python,c++,c,perl,MYSQL**
+- 🌱 I’m currently learning **HTML,C,PYTHON,JAVA,**
 
-- 👯 I’m looking to collaborate on **IBM**
+- 🤝 I’m looking for help with **Fullstack development**
+- 
+- 👯 My hobbies are cooking,reading books(rich dad poor dad,the man who knew infinity,ponniyin selvan,12 rule for life,can't hurt me) & animes.
 
-- 🤝 I’m looking for help with **cloud application**
-
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **manojkumarkalivarathangl@gmail.com**
 
