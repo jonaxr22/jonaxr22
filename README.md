@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on **IBM  newspaper tracker**
 
-- 🌱 I’m currently learning **HTML,C,PYTHON,JAVA,**
-- 
+- 🌱 I’m currently learning **HTML,C,PYTHON,JAVA,** 
 - 🤝 I’m looking for help with **Fullstack development**
 - 👯 My hobbies are cooking,reading books(rich dad poor dad,the man who knew infinity,ponniyin selvan,12 rule for life,can't hurt me) & animes.
 
